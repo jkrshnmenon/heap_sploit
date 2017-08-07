@@ -1,2 +1,3 @@
 # heap_sploit
-A library for generating payloads for exploiting unlink vulnerability on the heap
+A wrapper for generating payloads for exploiting the unlink vulnerability in dlmalloc.
+Might be useful during CTF's
