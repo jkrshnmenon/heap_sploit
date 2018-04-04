@@ -10,8 +10,8 @@ class Leak:
         lesser than 0x80
 
         allocate : Allocate chunks on the heap.
-        remove   : Free chunks on the heap (uses indexes)
-        view     : View contents of chunks (uses indexes)
+        remove   : Free chunks on the heap (uses indices)
+        view     : View contents of chunks (uses indices)
         '''
 
         self.allocate = allocate
